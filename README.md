@@ -46,6 +46,7 @@
     - Unity
     - C++
     - AWS
+    - [イベント運営(ハッカソン主催)](https://prickathon.connpass.com/event/97508/)
     - [イラストレーション](https://sketch.pixiv.net/@takanakahiko)
 
 ## 変遷
